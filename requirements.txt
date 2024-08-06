@@ -42,3 +42,4 @@ watchdog==4.0.0
 streamlit_option_menu
 scikit-learn
 matplotlib
+seaborn
